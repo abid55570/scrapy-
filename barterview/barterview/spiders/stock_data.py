@@ -25,7 +25,7 @@ class StockSpider(scrapy.Spider):
         stock_svg = [svg.replace("tradingview", "barterview") for svg in stock_svg]
 
         # Writing data to CSV file
-        csv_file_path = 'Nifty_500.csv'
+        csv_file_path = 'test.csv'
         with open(csv_file_path, mode='w', newline='') as file:
             writer = csv.writer(file)
             writer.writerow(['stock name', 'stock code', 'svg'])
