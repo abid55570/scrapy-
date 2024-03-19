@@ -1,0 +1,101 @@
+stock name,stock code,svg
+Microsoft Corporation,MSFT,https://s3-symbol-logo.barterview.com/microsoft.svg
+Apple Inc.,AAPL,https://s3-symbol-logo.barterview.com/apple.svg
+NVIDIA Corporation,NVDA,https://s3-symbol-logo.barterview.com/nvidia.svg
+"Amazon.com, Inc.",AMZN,https://s3-symbol-logo.barterview.com/amazon.svg
+Alphabet Inc.,GOOG,https://s3-symbol-logo.barterview.com/alphabet.svg
+"Meta Platforms, Inc.",META,https://s3-symbol-logo.barterview.com/meta-platforms.svg
+Berkshire Hathaway Inc.,BRK.A,https://s3-symbol-logo.barterview.com/berkshire-hathaway.svg
+Eli Lilly and Company,LLY,https://s3-symbol-logo.barterview.com/eli-lilly.svg
+Broadcom Inc.,AVGO,https://s3-symbol-logo.barterview.com/broadcom.svg
+Visa Inc.,V,https://s3-symbol-logo.barterview.com/visa.svg
+"Tesla, Inc.",TSLA,https://s3-symbol-logo.barterview.com/tesla.svg
+JP Morgan Chase & Co.,JPM,https://s3-symbol-logo.barterview.com/jpmorgan-chase.svg
+Walmart Inc.,WMT,https://s3-symbol-logo.barterview.com/walmart.svg
+UnitedHealth Group Incorporated,UNH,https://s3-symbol-logo.barterview.com/unitedhealth.svg
+Mastercard Incorporated,MA,https://s3-symbol-logo.barterview.com/mastercard.svg
+Exxon Mobil Corporation,XOM,https://s3-symbol-logo.barterview.com/exxon.svg
+Johnson & Johnson,JNJ,https://s3-symbol-logo.barterview.com/johnson-and-johnson.svg
+Procter & Gamble Company (The),PG,https://s3-symbol-logo.barterview.com/procter-and-gamble.svg
+"Home Depot, Inc. (The)",HD,https://s3-symbol-logo.barterview.com/home-depot.svg
+"Advanced Micro Devices, Inc.",AMD,https://s3-symbol-logo.barterview.com/advanced-micro-devices.svg
+Costco Wholesale Corporation,COST,https://s3-symbol-logo.barterview.com/costco-wholesale.svg
+AbbVie Inc.,ABBV,https://s3-symbol-logo.barterview.com/abbvie.svg
+"Merck & Company, Inc.",MRK,https://s3-symbol-logo.barterview.com/merck-and-co.svg
+Oracle Corporation,ORCL,https://s3-symbol-logo.barterview.com/oracle.svg
+"Salesforce, Inc.",CRM,https://s3-symbol-logo.barterview.com/salesforce.svg
+Bank of America Corporation,BAC,https://s3-symbol-logo.barterview.com/bank-of-america.svg
+Chevron Corporation,CVX,https://s3-symbol-logo.barterview.com/chevron.svg
+"Netflix, Inc.",NFLX,https://s3-symbol-logo.barterview.com/netflix.svg
+Coca-Cola Company (The),KO,https://s3-symbol-logo.barterview.com/coca-cola.svg
+Adobe Inc.,ADBE,https://s3-symbol-logo.barterview.com/adobe.svg
+Accenture plc,ACN,https://s3-symbol-logo.barterview.com/accenture.svg
+Thermo Fisher Scientific Inc,TMO,https://s3-symbol-logo.barterview.com/thermo-fisher-scientific.svg
+"PepsiCo, Inc.",PEP,https://s3-symbol-logo.barterview.com/pepsico.svg
+Linde plc,LIN,https://s3-symbol-logo.barterview.com/linde.svg
+McDonald's Corporation,MCD,https://s3-symbol-logo.barterview.com/mcdonalds.svg
+Abbott Laboratories,ABT,https://s3-symbol-logo.barterview.com/abbott.svg
+Wells Fargo & Company,WFC,https://s3-symbol-logo.barterview.com/wells-fargo.svg
+Walt Disney Company (The),DIS,https://s3-symbol-logo.barterview.com/walt-disney.svg
+"Cisco Systems, Inc.",CSCO,https://s3-symbol-logo.barterview.com/cisco.svg
+"T-Mobile US, Inc.",TMUS,https://s3-symbol-logo.barterview.com/t-mobile.svg
+QUALCOMM Incorporated,QCOM,https://s3-symbol-logo.barterview.com/qualcomm.svg
+Danaher Corporation,DHR,https://s3-symbol-logo.barterview.com/danaher.svg
+Intel Corporation,INTC,https://s3-symbol-logo.barterview.com/intel.svg
+General Electric Company,GE,https://s3-symbol-logo.barterview.com/general-electric.svg
+Intuit Inc.,INTU,https://s3-symbol-logo.barterview.com/intuit.svg
+International Business Machines Corporation,IBM,https://s3-symbol-logo.barterview.com/international-bus-mach.svg
+"Applied Materials, Inc.",AMAT,https://s3-symbol-logo.barterview.com/applied-materials.svg
+"Caterpillar, Inc.",CAT,https://s3-symbol-logo.barterview.com/caterpillar.svg
+Comcast Corporation,CMCSA,https://s3-symbol-logo.barterview.com/comcast.svg
+Verizon Communications Inc.,VZ,https://s3-symbol-logo.barterview.com/verizon.svg
+"Uber Technologies, Inc.",UBER,https://s3-symbol-logo.barterview.com/uber.svg
+American Express Company,AXP,https://s3-symbol-logo.barterview.com/american-express.svg
+Texas Instruments Incorporated,TXN,https://s3-symbol-logo.barterview.com/texas-instruments.svg
+"ServiceNow, Inc.",NOW,https://s3-symbol-logo.barterview.com/servicenow.svg
+"Pfizer, Inc.",PFE,https://s3-symbol-logo.barterview.com/pfizer.svg
+Union Pacific Corporation,UNP,https://s3-symbol-logo.barterview.com/union-pacific.svg
+Blackstone Inc.,BX,https://s3-symbol-logo.barterview.com/blackstone.svg
+"Nike, Inc.",NKE,https://s3-symbol-logo.barterview.com/nike.svg
+Amgen Inc.,AMGN,https://s3-symbol-logo.barterview.com/amgen.svg
+Philip Morris International Inc,PM,https://s3-symbol-logo.barterview.com/philip-morris.svg
+Morgan Stanley,MS,https://s3-symbol-logo.barterview.com/morgan-stanley.svg
+"Lowe's Companies, Inc.",LOW,https://s3-symbol-logo.barterview.com/lowe-s.svg
+"Intuitive Surgical, Inc.",ISRG,https://s3-symbol-logo.barterview.com/intuitive-surgical.svg
+Stryker Corporation,SYK,https://s3-symbol-logo.barterview.com/stryker.svg
+S&P Global Inc.,SPGI,https://s3-symbol-logo.barterview.com/s-and-p-global.svg
+ConocoPhillips,COP,https://s3-symbol-logo.barterview.com/conocophillips.svg
+"United Parcel Service, Inc.",UPS,https://s3-symbol-logo.barterview.com/united-parcel.svg
+Honeywell International Inc.,HON,https://s3-symbol-logo.barterview.com/honeywell.svg
+"Goldman Sachs Group, Inc. (The)",GS,https://s3-symbol-logo.barterview.com/golden-sachs-etf-trust-goldman.svg
+Lam Research Corporation,LRCX,https://s3-symbol-logo.barterview.com/lam-research.svg
+"BlackRock, Inc.",BLK,https://s3-symbol-logo.barterview.com/blackrock.svg
+AT&T Inc.,T,https://s3-symbol-logo.barterview.com/at-and-t.svg
+Charles Schwab Corporation (The),SCHW,https://s3-symbol-logo.barterview.com/schwab.svg
+Boeing Company (The),BA,https://s3-symbol-logo.barterview.com/boeing.svg
+RTX Corporation,RTX,https://s3-symbol-logo.barterview.com/raytheon.svg
+Booking Holdings Inc. Common Stock,BKNG,https://s3-symbol-logo.barterview.com/booking.svg
+"Eaton Corporation, PLC",ETN,https://s3-symbol-logo.barterview.com/eaton.svg
+"NextEra Energy, Inc.",NEE,https://s3-symbol-logo.barterview.com/nextera-energy.svg
+"Elevance Health, Inc.",ELV,https://s3-symbol-logo.barterview.com/anthem.svg
+Progressive Corporation (The),PGR,https://s3-symbol-logo.barterview.com/progressive-ohio.svg
+Medtronic plc.,MDT,https://s3-symbol-logo.barterview.com/medtronic.svg
+"Citigroup, Inc.",C,https://s3-symbol-logo.barterview.com/citigroup.svg
+"TJX Companies, Inc. (The)",TJX,https://s3-symbol-logo.barterview.com/tjx-cos.svg
+Bristol-Myers Squibb Company,BMY,https://s3-symbol-logo.barterview.com/bristol-myers-squibb.svg
+"Micron Technology, Inc.",MU,https://s3-symbol-logo.barterview.com/micron-technology.svg
+Vertex Pharmaceuticals Incorporated,VRTX,https://s3-symbol-logo.barterview.com/vertex-pharmaceutical.svg
+"Airbnb, Inc.",ABNB,https://s3-symbol-logo.barterview.com/airbnb.svg
+"Regeneron Pharmaceuticals, Inc.",REGN,https://s3-symbol-logo.barterview.com/regeneron-pharmaceuticals.svg
+Lockheed Martin Corporation,LMT,https://s3-symbol-logo.barterview.com/lockheed-martin.svg
+Deere & Company,DE,https://s3-symbol-logo.barterview.com/deere.svg
+Starbucks Corporation,SBUX,https://s3-symbol-logo.barterview.com/starbucks.svg
+Chubb Limited,CB,https://s3-symbol-logo.barterview.com/chubb.svg
+"Marsh & McLennan Companies, Inc.",MMC,https://s3-symbol-logo.barterview.com/marsh-and-mclennan.svg
+The Cigna Group,CI,https://s3-symbol-logo.barterview.com/cigna.svg
+"Automatic Data Processing, Inc.",ADP,https://s3-symbol-logo.barterview.com/automatic-data-processing.svg
+Boston Scientific Corporation,BSX,https://s3-symbol-logo.barterview.com/boston-scientific.svg
+Shopify Inc.,SHOP,https://s3-symbol-logo.barterview.com/shopify.svg
+"Analog Devices, Inc.",ADI,https://s3-symbol-logo.barterview.com/analog-devices.svg
+"Mondelez International, Inc.",MDLZ,https://s3-symbol-logo.barterview.com/mondelez.svg
+KLA Corporation,KLAC,https://s3-symbol-logo.barterview.com/kla-tencor.svg
