@@ -2,6 +2,7 @@ import scrapy
 from pathlib import Path
 import csv
 
+
 class StockSpider(scrapy.Spider):
     name = 'stock_spider'
     allowed_domains = ["https://www.tradingview.com"]
